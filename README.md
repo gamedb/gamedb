@@ -1,5 +1,7 @@
 # Steam Authority
 
+[![Join the chat at https://gitter.im/steamauthority/Lobby](https://badges.gitter.im/steamauthority/Lobby.svg)](https://gitter.im/steamauthority/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### Running on local
 ```bash
 export STEAM_ADMIN_PASS
