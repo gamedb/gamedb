@@ -80,7 +80,7 @@ require (
 	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/tdewolff/minify v2.3.6+incompatible
-	github.com/tdewolff/parse v2.3.4+incompatible // indirect
+	github.com/tdewolff/parse v2.3.7 // indirect
 	github.com/tdewolff/test v1.0.0 // indirect
 	github.com/temoto/robotstxt v0.0.0-20180810133444-97ee4a9ee6ea // indirect
 	github.com/tidwall/pretty v1.0.0 // indirect
