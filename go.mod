@@ -22,7 +22,7 @@ require (
 	github.com/badoux/checkmail v0.0.0-20181210160741-9661bd69e9ad
 	github.com/beefsack/go-rate v0.0.0-20180408011153-efa7637bb9b6 // indirect
 	github.com/bwmarrin/discordgo v0.19.0
-	github.com/cenkalti/backoff v2.2.0+incompatible
+	github.com/cenkalti/backoff v3.0.0+incompatible
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/derekstavis/go-qs v0.0.0-20180720192143-9eef69e6c4e7
 	github.com/dghubble/go-twitter v0.0.0-20190621134507-53f972dc4b06
