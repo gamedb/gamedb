@@ -40,7 +40,7 @@ require (
 	github.com/gocolly/colly v1.2.0
 	github.com/golang/protobuf v1.3.1
 	github.com/golang/snappy v0.0.1 // indirect
-	github.com/google/go-github v17.0.0+incompatible
+	github.com/google/go-github v26.0.9+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/gorilla/sessions v1.1.3
 	github.com/gorilla/websocket v1.4.0
