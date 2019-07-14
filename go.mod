@@ -25,7 +25,7 @@ require (
 	github.com/derekstavis/go-qs v0.0.0-20180720192143-9eef69e6c4e7
 	github.com/dghubble/go-twitter v0.0.0-20190512073027-53f972dc4b06
 	github.com/dghubble/oauth1 v0.5.0
-	github.com/dghubble/sling v1.2.0 // indirect
+	github.com/dghubble/sling v1.3.0 // indirect
 	github.com/didip/tollbooth v4.0.0+incompatible
 	github.com/djherbis/fscache v0.8.1
 	github.com/dustin/go-humanize v1.0.0
@@ -39,7 +39,6 @@ require (
 	github.com/golang/protobuf v1.3.1
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/go-github v17.0.0+incompatible
-	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/gorilla/sessions v1.1.3
 	github.com/gorilla/websocket v1.4.0
 	github.com/gosimple/slug v1.5.0

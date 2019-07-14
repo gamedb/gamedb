@@ -73,6 +73,7 @@ github.com/dghubble/oauth1 v0.5.0 h1:uJqX7Rzr3QRmp2slUWqI9Sm8NoP65AMiyXiijOWWLvQ
 github.com/dghubble/oauth1 v0.5.0/go.mod h1:8V8BMV9DJRREZx/lUaHtrs7GUMXpzbMqJxINCasxYug=
 github.com/dghubble/sling v1.2.0 h1:PYGS9ofwbV9nfhB1kYjB1vtXshMxlp2oQxTMMXVJ5pE=
 github.com/dghubble/sling v1.2.0/go.mod h1:ZcPRuLm0qrcULW2gOrjXrAWgf76sahqSyxXyVOvkunE=
+github.com/dghubble/sling v1.3.0/go.mod h1:XXShWaBWKzNLhu2OxikSNFrlsvowtz4kyRuXUG7oQKY=
 github.com/didip/tollbooth v4.0.0+incompatible h1:ayQZYuF5QOxx3NdYRNuRVFLv9/2b64JtSUlewb+0TMo=
 github.com/didip/tollbooth v4.0.0+incompatible/go.mod h1:A9b0665CE6l1KmzpDws2++elm/CsuWBMa5Jv4WY0PEY=
 github.com/djherbis/fscache v0.8.1 h1:YS9OE6iGmlLrSE0j7cFz9jeeapLc3jYSDzkAmvfxwfk=
