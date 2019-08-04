@@ -26,7 +26,7 @@ require (
 	github.com/derekstavis/go-qs v0.0.0-20180720192143-9eef69e6c4e7
 	github.com/dghubble/go-twitter v0.0.0-20190721003407-39e5462e111f
 	github.com/dghubble/oauth1 v0.6.0
-	github.com/didip/tollbooth v4.0.2+incompatible
+	github.com/didip/tollbooth v5.1.0+incompatible
 	github.com/didip/tollbooth/v5 v5.1.0
 	github.com/djherbis/fscache v0.8.1
 	github.com/dustin/go-humanize v1.0.0
