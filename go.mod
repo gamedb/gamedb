@@ -3,7 +3,7 @@ module github.com/gamedb/gamedb
 go 1.12
 
 require (
-	cloud.google.com/go v0.43.0
+	cloud.google.com/go v0.44.0
 	cloud.google.com/go/logging v1.0.0
 	github.com/Jleagle/go-durationfmt v0.0.0-20190307132420-e57bfad84057
 	github.com/Jleagle/influxql v0.0.0-20190502115937-4ac053a1ed8e
@@ -76,7 +76,6 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94
-	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/tdewolff/minify/v2 v2.5.1
 	github.com/tdewolff/test v1.0.3 // indirect
 	github.com/temoto/robotstxt v1.1.1 // indirect
@@ -92,7 +91,6 @@ require (
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sys v0.0.0-20190804153307-51ab0e2deafa // indirect
 	golang.org/x/text v0.3.2
-	golang.org/x/tools v0.0.0-20190802220118-1d1727260058 // indirect
 	google.golang.org/grpc v1.22.1
 	gopkg.in/djherbis/atime.v1 v1.0.0 // indirect
 	gopkg.in/djherbis/stream.v1 v1.2.0 // indirect
