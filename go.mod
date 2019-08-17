@@ -91,7 +91,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sys v0.0.0-20190804153307-51ab0e2deafa // indirect
 	golang.org/x/text v0.3.2
-	google.golang.org/grpc v1.22.1
+	google.golang.org/grpc v1.23.0
 	gopkg.in/djherbis/atime.v1 v1.0.0 // indirect
 	gopkg.in/djherbis/stream.v1 v1.2.0 // indirect
 	jaytaylor.com/html2text v0.0.0-20190408195923-01ec452cbe43
