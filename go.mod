@@ -84,7 +84,7 @@ require (
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c // indirect
 	github.com/xdg/stringprep v1.0.0 // indirect
 	github.com/yohcop/openid-go v1.0.0
-	go.mongodb.org/mongo-driver v1.0.4
+	go.mongodb.org/mongo-driver v1.1.0
 	go.uber.org/atomic v1.4.0 // indirect
 	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
 	golang.org/x/net v0.0.0-20190727083149-ca1201d0de80 // indirect
