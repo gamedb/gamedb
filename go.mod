@@ -78,7 +78,6 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/streadway/amqp v0.0.0-20190817100246-eade30b20f1d
-	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/tdewolff/minify/v2 v2.5.1
 	github.com/tdewolff/test v1.0.3 // indirect
 	github.com/temoto/robotstxt v1.1.1 // indirect
@@ -89,7 +88,7 @@ require (
 	github.com/yohcop/openid-go v1.0.0
 	go.mongodb.org/mongo-driver v1.1.0
 	go.uber.org/atomic v1.4.0 // indirect
-	golang.org/x/crypto v0.0.0-20190701094942-4def268fd1a4
+	golang.org/x/crypto v0.0.0-20190824113138-60c769a6c586
 	golang.org/x/net v0.0.0-20190817095747-74dc4d7220e7 // indirect
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sys v0.0.0-20190817095802-fde4db37ae7a // indirect
