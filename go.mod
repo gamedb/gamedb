@@ -45,7 +45,7 @@ require (
 	github.com/google/go-github/v27 v27.0.6
 	github.com/google/go-github/v28 v28.0.0
 	github.com/gorilla/sessions v1.2.0
-	github.com/gorilla/websocket v1.4.0
+	github.com/gorilla/websocket v1.4.1
 	github.com/gosimple/slug v1.7.0
 	github.com/influxdata/influxdb1-client v0.0.0-20190810005404-fc22c7df067e
 	github.com/jinzhu/gorm v1.9.10
