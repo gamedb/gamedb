@@ -43,7 +43,6 @@ require (
 	github.com/golang/protobuf v1.3.2
 	github.com/golang/snappy v0.0.1 // indirect
 	github.com/google/go-github/v27 v27.0.6
-	github.com/google/go-github/v28 v28.0.0
 	github.com/gorilla/sessions v1.2.0
 	github.com/gorilla/websocket v1.4.1
 	github.com/gosimple/slug v1.7.0
@@ -63,7 +62,7 @@ require (
 	github.com/nicklaw5/helix v0.5.2
 	github.com/nlopes/slack v0.5.0
 	github.com/olekukonko/tablewriter v0.0.1 // indirect
-	github.com/oschwald/maxminddb-golang v1.3.1
+	github.com/oschwald/maxminddb-golang v1.4.0
 	github.com/pariz/gountries v0.0.0-20171019111738-adb00f6513a3
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/pkg/errors v0.8.1 // indirect
@@ -79,7 +78,6 @@ require (
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/streadway/amqp v0.0.0-20190817100246-eade30b20f1d
-	github.com/stretchr/objx v0.1.1 // indirect
 	github.com/tdewolff/minify/v2 v2.5.1
 	github.com/tdewolff/test v1.0.3 // indirect
 	github.com/temoto/robotstxt v1.1.1 // indirect
