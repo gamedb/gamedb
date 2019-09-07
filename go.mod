@@ -77,8 +77,7 @@ require (
 	github.com/sendgrid/sendgrid-go v3.5.0+incompatible
 	github.com/ssor/bom v0.0.0-20170718123548-6386211fdfcf // indirect
 	github.com/streadway/amqp v0.0.0-20190827075055-edfb9018d271
-	github.com/tdewolff/minify/v2 v2.5.1
-	github.com/tdewolff/test v1.0.4 // indirect
+	github.com/tdewolff/minify/v2 v2.5.2
 	github.com/temoto/robotstxt v1.1.1 // indirect
 	github.com/tidwall/pretty v1.0.0 // indirect
 	github.com/uber-go/atomic v1.4.0 // indirect
