@@ -3,8 +3,8 @@ module github.com/gamedb/gamedb
 go 1.12
 
 require (
-	cloud.google.com/go v0.44.3
 	cloud.google.com/go/logging v1.0.0
+	cloud.google.com/go/pubsub v1.0.1
 	github.com/Jleagle/go-durationfmt v0.0.0-20190307132420-e57bfad84057
 	github.com/Jleagle/influxql v0.0.0-20190502115937-4ac053a1ed8e
 	github.com/Jleagle/memcache-go v0.0.0-20190624121436-7b358ad3e388
